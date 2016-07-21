@@ -4,7 +4,7 @@
 
 .menu {
     padding-top: 5px;
-    padding-left: 20px;
+    padding-left: 35px;
 }
 
 .menu li {
@@ -68,3 +68,14 @@
     font-size: 15px;
     z-index: 999;
 }
+
+
+.bg {
+opacity: 0;
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+z-index: -1;
+}
+
